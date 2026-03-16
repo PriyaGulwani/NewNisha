@@ -32,6 +32,8 @@ public class BaseTest extends CommonPageCMS {
       DriverManager.setDriver(driver);
 	  System.out.println("Driver Setup Done");
 	  System.out.println("This is my method")
+	  	  System.out.println("This is my method")
+
    }
 
    @AfterMethod(alwaysRun = true)
