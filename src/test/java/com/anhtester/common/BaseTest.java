@@ -60,6 +60,10 @@ public class BaseTest extends CommonPageCMS {
    public void printMyself(){
 	   System.out.println("printMyself");
    }
+      public void printMynew(){
+		  	   System.out.println("printMynewcommand");
+
+	  }
    
    public void getDriverState(){
 	   System.out.println("Driver Initialized");
