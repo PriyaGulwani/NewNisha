@@ -62,6 +62,9 @@ public class BaseTest extends CommonPageCMS {
    }
       public void printMynew(){
 		  	   System.out.println("printMynewcommand");
+   public void printMyselffor(){
+	   	   System.out.println("printMyself");
+   }
 
 	  }
    
